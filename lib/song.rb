@@ -6,7 +6,8 @@
   def initialize 
     title=@title
     artist=@artist 
-  end 
+  end
+end
  
   
 #def artist=(artist)
